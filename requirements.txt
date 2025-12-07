@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+transformers==4.46.3
+tokenizers==0.20.3
+pillow
+numpy
+einops
+easydict
+addict
+img2pdf
+pymupdf
